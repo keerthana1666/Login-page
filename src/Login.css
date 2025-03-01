@@ -1,0 +1,50 @@
+/* login.css */
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:rgb(123, 207, 228);
+    flex-direction:column;
+    border-style: groove;
+    border-color: black;
+}
+
+.main{
+    /* background-color: aqua; */
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 8px 10px;
+    width: 400px;
+}
+h5{
+    margin: 10px 100px 10px 10px;
+}
+h4{
+    margin: 0px 10px 10px 10px;
+}
+#one{
+    margin-top: 20px;
+    width: 80px; 
+    
+}
+
+.child{
+
+   border-color: black;
+   border-style:groove;
+    margin: 20px 200px 200px 200px;
+    background-color:rgb(133, 192, 202);
+}
+h2{
+    margin:10px 80px 10px 80px;
+}
+#username{
+    margin-bottom: 20px;
+}
+#passcode{
+    margin-bottom: 20px;
+   
+}h2{
+    margin-bottom: 30px;
+}
